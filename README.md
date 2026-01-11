@@ -13,7 +13,7 @@
 - Others: 3Dプリンタを用いたプロトタイピング, PID制御の実装
 
 ## 📂 公開中のプロジェクト
-### [Silent-Drone-Development](https://github.com/23j5144/silent-drone)
+### [Silent-Drone-Development](https://github.com/23j5144-del/silent-drone)
 研究で使用している制御・解析プログラム一式を公開しています。随時更新予定です。
 - C++: 浮力を考慮した独自の高度維持PID制御ロジック
 - Python: 騒音データの比較・可視化解析ツール
