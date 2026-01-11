@@ -9,13 +9,15 @@
 
 ## 🛠 スキル（Languages & Tools）
 - Languages: Python, C, C++, Java
-- Tools & Environments: Linux, Processing, LaTeX
-- Others: 3Dプリンタを用いたプロトタイピング
+- Tools & Environments: Linux, Processing, LaTeX, VS Code
+- Others: 3Dプリンタを用いたプロトタイピング, PID制御の実装
 
-## 📋 現在進行中のプロジェクト
-### 静音飛行船型ドローンの開発
-- 目的: 従来のドローン（70dB以上）の騒音問題を解決し、動物にストレスを与えない観察を実現する
-- 技術要素: PID制御を用いた安定ホバリング、マイラー・アルミ多層構造による外皮設計
+## 📂 公開中のプロジェクト
+### [Silent-Drone-Development](https://github.com/23j5144/silent-drone)
+研究で使用している制御・解析プログラム一式を公開しています。随時更新予定です。
+- C++: 浮力を考慮した独自の高度維持PID制御ロジック
+- Python: 騒音データの比較・可視化解析ツール
+- Processing: 3Dモデルを用いたリアルタイム姿勢監視シミュレーター
 
 ## ✉️ 連絡先
 - Gmail: naruuu910@gmail.com
